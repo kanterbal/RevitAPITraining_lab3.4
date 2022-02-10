@@ -2,7 +2,9 @@
 <RevitAddIns>
 	<AddIn Type="Command">
 		<Assembly>"C:\Program Files\RevitAPITraining\RevitAPITraining_lab3.4.dll"</Assembly>		
-		<AddInId>89AD17B0-A2FB-4095-BC28-A284A8DE3508</AddInId>
+		<AddInId>
+			46F85798-6BEB-4C28-8CFC-CC07D0657EEC
+		</AddInId>
 		<FullClassName>RevitAPITraining_lab3._4.Main</FullClassName>
 		<VendorId>ADSK</VendorId>
 		<Text>Параметр проекта</Text>
